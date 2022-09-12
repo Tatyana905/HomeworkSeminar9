@@ -43,7 +43,7 @@ Console.WriteLine($"Сумма чисел от  {M} до {N} это {SumNumber(M
 // Задача 68: Напишите программу вычисления функции Аккермана с помощью рекурсии.
 //  Даны два неотрицательных числа m и n.
 // m = 2, n = 3 -> A(m,n) = 9
-
+/*
 Console.Write("Введите первое число: ");
 int m = Convert.ToInt32(Console.ReadLine());
 
@@ -63,4 +63,4 @@ int Ack(int m, int n)
 }
 int ackermann = Ack(m, n);
 Console.WriteLine($" Значение функции Аккермана - {ackermann}");
-
+*/
